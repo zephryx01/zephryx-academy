@@ -37,7 +37,7 @@ A modern web application for cybersecurity course selling and free resource shar
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/zephryx-academy.git
+git clone https://github.com/zephryx01/zephryx-academy.git
 cd zephryx-academy
 
 # Install dependencies
@@ -49,3 +49,4 @@ yarn install
 npm run dev
 # or
 yarn dev
+
